@@ -1,0 +1,2 @@
+if MENU == 1 then radar() end
+end
